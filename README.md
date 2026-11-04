@@ -14,7 +14,7 @@ This is a **strictly non-profit, fan-made preservation project** for a game that
 We have massive respect for the work you put into creating this game. If you are the copyright holder and wish for this project, its files, or this repository to be taken down, please reach out to me directly. 
 
 You can contact me via:
-- **Email:** [Isi dengan Email aktifmu, misal: nara@email.com]
-- **Discord:** [Isi dengan username Discord-mu]
+- **Email:** luminara.contactus@gmail.com
+- **Discord:** @sylvize
 
 Upon receiving a valid request, **all related files and distributions will be removed immediately and unconditionally**. Thank you for the amazing game you created!
